@@ -1,0 +1,14 @@
+E:\Liusimawen个人资料\SocketDemo\MySocketServer\bin\Debug\netcoreapp2.1\MySocketServer.deps.json
+E:\Liusimawen个人资料\SocketDemo\MySocketServer\bin\Debug\netcoreapp2.1\MySocketServer.runtimeconfig.json
+E:\Liusimawen个人资料\SocketDemo\MySocketServer\bin\Debug\netcoreapp2.1\MySocketServer.runtimeconfig.dev.json
+E:\Liusimawen个人资料\SocketDemo\MySocketServer\bin\Debug\netcoreapp2.1\MySocketServer.dll
+E:\Liusimawen个人资料\SocketDemo\MySocketServer\bin\Debug\netcoreapp2.1\MySocketServer.pdb
+E:\Liusimawen个人资料\SocketDemo\MySocketServer\bin\Debug\netcoreapp2.1\SocketUtils.dll
+E:\Liusimawen个人资料\SocketDemo\MySocketServer\bin\Debug\netcoreapp2.1\SocketUtils.pdb
+E:\Liusimawen个人资料\SocketDemo\MySocketServer\obj\Debug\netcoreapp2.1\MySocketServer.csprojAssemblyReference.cache
+E:\Liusimawen个人资料\SocketDemo\MySocketServer\obj\Debug\netcoreapp2.1\MySocketServer.csproj.CoreCompileInputs.cache
+E:\Liusimawen个人资料\SocketDemo\MySocketServer\obj\Debug\netcoreapp2.1\MySocketServer.AssemblyInfoInputs.cache
+E:\Liusimawen个人资料\SocketDemo\MySocketServer\obj\Debug\netcoreapp2.1\MySocketServer.AssemblyInfo.cs
+E:\Liusimawen个人资料\SocketDemo\MySocketServer\obj\Debug\netcoreapp2.1\MySocketServer.csproj.CopyComplete
+E:\Liusimawen个人资料\SocketDemo\MySocketServer\obj\Debug\netcoreapp2.1\MySocketServer.dll
+E:\Liusimawen个人资料\SocketDemo\MySocketServer\obj\Debug\netcoreapp2.1\MySocketServer.pdb
