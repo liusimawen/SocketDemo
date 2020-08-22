@@ -1,6 +1,4 @@
-﻿using IntelligentCourse.Frame.Controls.Model;
-using System;
-using System.Collections.Generic;
+﻿using System;
 using System.Net;
 using System.Net.Sockets;
 using System.Text;

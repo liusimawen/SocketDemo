@@ -3,3 +3,6 @@
 /MySocketServer/bin/Debug
 /Socket/bin/Release
 /Socket/bin/Debug
+.vs
+obj
+Properties

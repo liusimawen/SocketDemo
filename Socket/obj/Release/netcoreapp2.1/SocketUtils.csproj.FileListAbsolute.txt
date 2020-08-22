@@ -1,8 +1,0 @@
-E:\Liusimawen个人资料\SocketDemo\Socket\bin\Release\netcoreapp2.1\SocketUtils.deps.json
-E:\Liusimawen个人资料\SocketDemo\Socket\bin\Release\netcoreapp2.1\SocketUtils.dll
-E:\Liusimawen个人资料\SocketDemo\Socket\bin\Release\netcoreapp2.1\SocketUtils.pdb
-E:\Liusimawen个人资料\SocketDemo\Socket\obj\Release\netcoreapp2.1\SocketUtils.csproj.CoreCompileInputs.cache
-E:\Liusimawen个人资料\SocketDemo\Socket\obj\Release\netcoreapp2.1\SocketUtils.AssemblyInfoInputs.cache
-E:\Liusimawen个人资料\SocketDemo\Socket\obj\Release\netcoreapp2.1\SocketUtils.AssemblyInfo.cs
-E:\Liusimawen个人资料\SocketDemo\Socket\obj\Release\netcoreapp2.1\SocketUtils.dll
-E:\Liusimawen个人资料\SocketDemo\Socket\obj\Release\netcoreapp2.1\SocketUtils.pdb
